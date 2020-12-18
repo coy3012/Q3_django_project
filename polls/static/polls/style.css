@@ -1,0 +1,10 @@
+body {
+    background: white url("images/g.jpg") no-repeat;
+    background-position: center;
+    height: 600px;
+    background-size: 30%;
+}
+
+li a {
+    color: green;
+}
